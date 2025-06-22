@@ -13,7 +13,7 @@ This is a mini-project taken up by me & a few of my colleagues while we were in 
 - **Access logging** with timestamps to `logs.txt` on SD card
 - **Reliable timekeeping** using DS3231 RTC (keeps sync during power loss)
 - **Offline operation** — no internet or server needed
-**Note**:
+### Note:
 This project is a proof of concept prototype so we don't have the relay ouput in the code. In actual functioning the 5V relay will be hooked upto the door lock along with required power supply 12/6 V as required for the EM lock.
 Also note that the arduino doesn't have enough power to provide to all the components. So an external power supply would be needed. We used an external power supply of 5V and reinforced the voltage rail on the breadboard for proper functioning
 
