@@ -4,7 +4,7 @@ A secure, Arduino-based electromagnetic lock system powered by **Time-based One-
 
 ## Introduction
 
-This is a mini-project taken up by me & a few of my colleagues while we were in the Automation & Robotics Club in college. The objective of this project is clear, Our club had a lab known as Tinkerer’s Lab which was also being used by members from other technical clubs. For unbeknownst reasons, the lab’s lock was broken, so we could no longer use the labroom to store our technical equipments. So a few of us took up this issue and decided to build a totp door lock, inspired by the project of the same nature made by ajlowndes [ajlowndes’ TOTP lock project](https://github.com/ajlowndes/TOTP-Lock-Project), we built our own version tailored to support **daily-resetting access codes** for different clubs.
+This is a mini-project taken up by me & a few of my colleagues while we were in the Automation & Robotics Club in college. The objective of this project is clear, Our club had a lab known as Tinkerer’s Lab which was also being used by members from other technical clubs. For unbeknownst reasons, the lab’s lock was broken, so we could no longer use the labroom to store our technical equipments. So a few of us took up this issue and decided to build a totp door lock, we built our own system tailored to support **daily-resetting access codes** for different clubs.
 
 ## Key Features
 
