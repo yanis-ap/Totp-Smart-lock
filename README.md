@@ -50,7 +50,8 @@ This is a mini-project taken up by me & a few of my colleagues while we were in 
 2. Place `hmacKeys.bin` (5×10-byte HMAC keys) on SD card.
 3. Follow the circuit diagram as shown in image
 4. Power on — LCD prompts for password.
-5. Match the correct code? Green LED lights up for 5sec indicating correct password, log saved.
+5. To generate & view the correct keys use: https://www.lucadentella.it/OTP/
+6. Match the correct code? Green LED lights up for 5sec indicating correct password, log saved.
 
 ## Future-works / Todo
 
